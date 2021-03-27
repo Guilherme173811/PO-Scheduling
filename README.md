@@ -15,6 +15,9 @@ Para a solução deste projeto foram feitas duas modelagens matemáticas. A prim
 Há uma comparação entre solvers disponíveis no mercado: Gurobi e or-tools
 
 #Arquivos disponíveis:
+
     Scheduling.py : Modelagem matemática 1 com o solver or-tools
+    
     Gurobi- Scheduling.py : Modelagem matemática 1 com o solver Gurobi
+    
     Gurobi - Scheduling Moledo 2.py: Modelagem matemática 2 com o solver Gurobi

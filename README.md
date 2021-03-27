@@ -7,6 +7,7 @@ A programação de tabelas é uma das principais aplicações de Pesquisa Operac
 O problema mais abordado de programação de tabelas consiste em decidir quando e onde os jogos de um determinado campeonato serão realizados. Este problema pode ser abordado como sequenciamento de tarefas, usualmente, estas são representadas pelos jogos e os recursos pelas equipes que participam do torneio.
 
 O objetivo do trabalho será analisar a tabela do campeonato Arulíadas organizado pela Associação de Repúblicas da Unicamp de Limeira (ARULI). Esta é uma organização estudantil sem fins lucrativos, reconhecida pela UNICAMP.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Para a solução deste projeto foram feitas duas modelagens matemáticas. A primeira modelagem possui uma variável binária a mais que a segunda modelagem que armazena no programa se o slot de tempo está ocupado.
